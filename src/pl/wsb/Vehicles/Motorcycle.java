@@ -13,6 +13,7 @@ public class Motorcycle extends Vehicle {
     }
 
     public String toString() {
+
         return super.toString();
     }
 }
